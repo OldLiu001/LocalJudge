@@ -18,6 +18,9 @@ judge xxxxx your_executable_path_here
 Usage: judge <problem_number> <executable_path> [time_limit]
 Return:
 	0 Accepted
-	1 Other
+	1 Wrong Answer
+	2 Runtime Error
+	3 Time Limit Exceeded
+	4 Missing Output File(s)
 ```
 
