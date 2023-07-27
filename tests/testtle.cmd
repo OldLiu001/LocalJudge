@@ -1,0 +1,1 @@
+judge 00001 "D:\@Resources\±à³Ì\@Repositories\LocalJudge\solutions\tle\src\main.exe" 10
