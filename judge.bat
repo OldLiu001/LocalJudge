@@ -1,4 +1,7 @@
 :: Usage: judge <problem_number> <executable_path> [time_limit]
+:: Return:
+:: 	0 Accepted
+:: 	1 Other
 
 @echo off
 setlocal ENABLEDELAYEDEXPANSION
