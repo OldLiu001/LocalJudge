@@ -1,5 +1,11 @@
 # Local Judge
 
+A small but complete judge system written in BAT & VBS within 100 lines of code.
+
+Support AC, RE, TLE & WA.
+
+## Usage
+
 Place your test points to `problems\xxxxx`, then simply run:
 
 ```
